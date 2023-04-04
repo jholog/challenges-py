@@ -2,5 +2,5 @@
 
 print(max(list(map(lambda x: int(x[::-1]), input().split()))))
 
-# 다음은 숏코딩 참조
+# 숏코딩 참조
 # print(max(input()[::-1].split()))
